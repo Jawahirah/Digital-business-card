@@ -11,3 +11,15 @@ footer{
 a{
     text-decoration: none;
 }
+
+#main-card{
+    width: 25%;
+    height: 90hv;
+}
+
+@media (max-width:577px) {
+    #main-card{
+        width: 75%;
+    }
+    
+}

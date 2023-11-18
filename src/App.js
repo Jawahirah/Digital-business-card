@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 
 export default function App() {
     return (
-        <div className='card w-50 warning my-5 rounded mx-auto bg-dark'>
+        <div className='card  warning my-5 rounded mx-auto bg-dark' id='main-card'>
             <div className="card-body">
                 <Header />
                 <MainContent />
